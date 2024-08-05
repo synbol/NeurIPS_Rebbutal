@@ -6,16 +6,15 @@ This repository contains the generated images, each corresponding file is descri
     
 
 **2、SOS_exp.pdf**  
-
     
-
+    
 **3、COCO_[EOS].pdf**  
-
-   Switch [EOS] generated images on MS-COCO.
+    
+    Switch [EOS] generated images on MS-COCO.
 
 **4、face generation.pdf**  
-
-   Generated images on the face generation task.
+    
+    Generated images on the face generation task.
     
     
 
